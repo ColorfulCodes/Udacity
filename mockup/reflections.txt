@@ -1,0 +1,12 @@
+* What new skills have you learned?
+I've learned how to copy basic web pages. Learned how to do a footnote and straight line.
+
+  * What has been easy?
+  Putting the page together has been easy. Html is very simple.
+
+  * What has been difficult?
+  The HR tag. The line across the page. It was so difficult I still do not have
+  the exact line as the original page. So many ways to style it and I know I still did not get it right.
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  Yes, this project was much faster because it used the same logic.
